@@ -9,9 +9,9 @@
     "channelWeightConfig": {
       "defaultWeight": 0,
       "weights": {
-        "399178054909296640": 1, //development
-        "903220971828289546": 1, // IOTA DAO Pioneers
-        "839927402242637834": 1  // Governance Discussion
+        "399178054909296640": 1,
+        "903220971828289546": 1,
+        "839927402242637834": 1
       }
     },
     "includeNsfwChannels": false,
