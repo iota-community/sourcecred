@@ -1,11 +1,19 @@
 [
   {
     "channelWeightConfig": {
-      "defaultWeight": 1,
+      "defaultWeight": 0,
       "weights": {
       }
     },
-    "guildId": "678348980639498428",
+    "guildId": "397872799483428865",
+    "channelWeightConfig": {
+      "defaultWeight": 0,
+      "weights": {
+        "399178054909296640": 1, //development
+        "903220971828289546": 1, // IOTA DAO Pioneers
+        "839927402242637834": 1  // Governance Discussion
+      }
+    },
     "includeNsfwChannels": false,
     "propsChannels": [
     ],
@@ -13,8 +21,8 @@
       "applyAveraging": false,
       "defaultWeight": 1,
       "weights": {
-        "sourcecred:678399364418502669": 10,
-        "👍": 1
+        "⭐": 1,
+        "🆒": 1
       }
     },
     "roleWeightConfig": {
