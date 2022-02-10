@@ -13,7 +13,7 @@ jobs:
     runs-on: self-hosted
     timeout-minutes: 1440
     env:
-      NODE_OPTIONS: --max_old_space_size=8192
+      NODE_OPTIONS: --max_old_space_size=32000
     steps:
       - uses: actions/checkout@v2.4.0
         with:
